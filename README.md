@@ -68,3 +68,11 @@ src/
 │   └── ToolBoard    # Drawing tools (WIP)
 └── styles/          # Global styles
 ```
+
+## License
+This is a portfolio project created for educational purposes.
+Feel free to use, modify and learn from it.
+
+---
+
+Made with ❤️ by Attila
